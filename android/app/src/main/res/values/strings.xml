@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ionic-stencil-capacitor-kitchensink</string>
+    <string name="title_activity_main">ionic-stencil-capacitor-kitchensink</string>
+    <string name="package_name">com.jcesarmobile.capacitor.kitchensink</string>
+    <string name="fileprovider_authority">com.jcesarmobile.capacitor.kitchensink.fileprovider</string>
+    <string name="custom_url_scheme">com.jcesarmobile.capacitor.kitchensink</string>
+</resources>
