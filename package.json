@@ -14,6 +14,8 @@
     "test.watch": "stencil test --spec --e2e --watch"
   },
   "dependencies": {
+    "@capacitor/cli": "^1.0.0",
+    "@capacitor/core": "^1.0.0",
     "@ionic/core": "one"
   },
   "devDependencies": {
