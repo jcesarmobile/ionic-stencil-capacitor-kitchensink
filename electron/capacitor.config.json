@@ -1,0 +1,7 @@
+{
+  "appId": "com.jcesarmobile.capacitor.kitchensink",
+  "appName": "ionic-stencil-capacitor-kitchensink",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
