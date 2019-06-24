@@ -11,6 +11,11 @@ export class AppRoot {
       title: 'StatusBar',
       url: '/statusbar',
       icon: 'browsers'
+    },
+    {
+      title: 'Device',
+      url: '/device',
+      icon: 'phone-portrait'
     }
   ];
 
@@ -19,6 +24,7 @@ export class AppRoot {
       <ion-router useHash={false}>
         <ion-route url="/" component="app-home" />
         <ion-route url="/statusbar" component="app-statusbar" />
+        <ion-route url="/device" component="app-device" />
       </ion-router>
     );
   }
