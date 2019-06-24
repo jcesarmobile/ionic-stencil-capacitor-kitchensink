@@ -11,6 +11,9 @@ export class AppHome {
       <ion-header>
         <ion-toolbar color="primary">
           <ion-title>Home</ion-title>
+          <ion-buttons slot="start">
+            <ion-menu-button></ion-menu-button>
+          </ion-buttons>
         </ion-toolbar>
       </ion-header>,
 
@@ -18,8 +21,6 @@ export class AppHome {
         <p>
           Welcome to Ionic Stencil Capacitor Kitchensink app
         </p>
-
-        <ion-button href="/statusbar" expand="block">Statusbar page</ion-button>
       </ion-content>
     ];
   }
