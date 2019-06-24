@@ -1,1 +1,0 @@
-import{r as o,c as s}from"./p-09b7a6d1.js";import{c as n,a as r,g as t}from"./p-80823372.js";class a{constructor(n){o(this,n),this.doc=s(this,"document")}create(o){return n("ion-loading",o)}dismiss(o,s,n){return r(document,o,s,"ion-loading",n)}async getTop(){return t(document,"ion-loading")}}export{a as ion_loading_controller};
